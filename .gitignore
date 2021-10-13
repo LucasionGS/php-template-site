@@ -1,0 +1,7 @@
+/*
+/src/icons/*
+!/src
+!/src/icons
+!/components
+!/__*
+!/.gitignore
